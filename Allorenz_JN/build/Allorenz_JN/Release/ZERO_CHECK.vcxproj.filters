@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jaypa\allolib_playground-1\MAT201B\choatic-system\build\Allorenz_JN\Release\CMakeFiles\79beb5005c5fa1a0218a14241c078bf5\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9EB1A8BF-F4C7-3A16-BE38-31C37033F91E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

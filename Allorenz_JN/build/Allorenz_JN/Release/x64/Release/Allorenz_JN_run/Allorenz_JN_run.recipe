@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\jaypa\allolib_playground-1\MAT201B\choatic-system\build\Allorenz_JN\Release\x64\Release\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\jaypa\allolib_playground-1\MAT201B\choatic-system\bin\Allorenz_JN.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\jaypa\allolib_playground-1\MAT201B\choatic-system\build\Allorenz_JN\Release\x64\Release\Allorenz_JN_run</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

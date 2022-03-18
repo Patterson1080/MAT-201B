@@ -1,0 +1,24 @@
+^C:\USERS\JAYPA\ALLOLIB_PLAYGROUND-1\MAT201B\CHOATIC-SYSTEM\BUILD\ALLORENZ_JN\RELEASE\CMAKEFILES\79BEB5005C5FA1A0218A14241C078BF5\ALLORENZ_JN_RUN.RULE
+setlocal
+cd C:\Users\jaypa\allolib_playground-1\MAT201B\choatic-system\bin
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+.\Allorenz_JN
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\JAYPA\ALLOLIB_PLAYGROUND-1\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/jaypa/allolib_playground-1 -BC:/Users/jaypa/allolib_playground-1/MAT201B/choatic-system/build/Allorenz_JN/Release --check-stamp-file C:/Users/jaypa/allolib_playground-1/MAT201B/choatic-system/build/Allorenz_JN/Release/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

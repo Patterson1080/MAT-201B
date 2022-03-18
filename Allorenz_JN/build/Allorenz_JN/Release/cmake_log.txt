@@ -1,0 +1,16 @@
+-- Selecting Windows SDK version 10.0.20348.0 to target Windows 10.0.22000.
+-- ==== Configuring Gamma.
+-- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE) 
+-- libsndfile: SNDFILE_LIBRARY-NOTFOUND
+-- threading: 
+-- Using Win32 for window creation
+-- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE) 
+-- Compiling with support for: wasapi
+-- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE) 
+-- Compiling with support for: winmm
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+-- Using the single-header code from C:/Users/jaypa/allolib_playground-1/allolib/external/json/single_include/
+-- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/jaypa/allolib_playground-1/MAT201B/choatic-system/build/Allorenz_JN/Release
